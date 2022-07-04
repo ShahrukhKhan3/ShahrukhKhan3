@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Mean stack, Mern stack**
 
-- 📫 How to reach me **03315521016**
+- 📫 How to reach me **shahrukh.khan3599@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
