@@ -1,10 +1,29 @@
 <h1 align="center">Hi 👋, I'm Shahrukh Khan</h1>
-<h3 align="center">I began my journey in Software Quality Assurance in January 2023 with a clear focus on building reliable, high-quality products. Since then, I’ve worked across a wide range of platforms—including Web Applications, Android and iOS apps, and Desktop games—gaining hands-on experience in Manual Testing, API Testing, and Performance Testing. This exposure has helped me understand how systems behave under real-world conditions and how to ensure smooth, consistent user experiences.
+<div style="font-family: Arial, sans-serif; margin: 40px; background-color: #f9f9f9; padding: 20px;">
 
-Alongside my professional work, I’ve also contributed as an SQA trainer, mentoring aspiring testers and sharing practical, industry-focused knowledge. Teaching has strengthened my ability to simplify complex concepts while reinforcing my own expertise. I’m driven by continuous improvement, a detail-oriented mindset, and a passion for delivering software that not only works—but performs efficiently and reliably under pressure.
+    <div style="max-width: 800px; margin: auto; background: white; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
 
-Available for freelance QA projects
-Upwork Profile: https://www.upwork.com/freelancers/~0127ecba804b24516b?mp_source=share</h3>
+        <p style="text-align: justify; line-height: 1.8; font-size: 16px; color: #333;">
+            I began my journey in Software Quality Assurance in January 2023 with a clear focus on building reliable, high-quality products. Since then, I’ve worked across a wide range of platforms—including Web Applications, Android and iOS apps, and Desktop games—gaining hands-on experience in Manual Testing, API Testing, and Performance Testing. This exposure has helped me understand how systems behave under real-world conditions and how to ensure smooth, consistent user experiences.
+        </p>
+
+        <p style="text-align: justify; line-height: 1.8; font-size: 16px; color: #333;">
+            Alongside my professional work, I’ve also contributed as an SQA trainer, mentoring aspiring testers and sharing practical, industry-focused knowledge. Teaching has strengthened my ability to simplify complex concepts while reinforcing my own expertise. I’m driven by continuous improvement, a detail-oriented mindset, and a passion for delivering software that not only works—but performs efficiently and reliably under pressure.
+        </p>
+
+        <p style="text-align: justify; line-height: 1.8; font-size: 16px; color: #333;">
+            Available for freelance QA projects.  
+            Upwork Profile: 
+            <a href="https://www.upwork.com/freelancers/~0127ecba804b24516b?mp_source=share" 
+               target="_blank"
+               style="color: #0077cc; text-decoration: none;">
+               Click Here
+            </a>
+        </p>
+
+    </div>
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrukhkhan3&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukhkhan3" /> </p>
 
